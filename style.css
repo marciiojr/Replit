@@ -1,0 +1,45 @@
+a{
+  text-decoration: none;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  gap: 50px;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  height: 70px;
+  width: auto;
+  background-color: blue;
+}
+
+.container {
+  display: flex;
+
+}
+
+h1 {
+  margin: 100px 0 0 100px;
+}
+
+p {
+  margin: 100px 0 0 100px;
+  font-size: 18px;
+}
+
+.descricao {
+  width: 50%;
+}
+
+.foto {
+  width: 50%;
+
+}
